@@ -23,9 +23,4 @@ This project was built using the following technologies.
 
 Clone down this repository. You will need `git` installed globally on your machine.
 
-## 🛠 Setup Instructions
-
-Run this command to clone the repository: 
-
-    git clone https://github.com/muhammadmubeen17/simple-portfolio-website.git
 
